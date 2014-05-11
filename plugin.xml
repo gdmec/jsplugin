@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"  
-    id="com.rensanning.cordova.helloworld"  
+    id="cn.edu.gdmec.t00385.helloworld"  
     version="0.0.1">  
     <name>HelloWorldPlugin</name>  
     <description>HelloWorldPlugin Description</description>  
